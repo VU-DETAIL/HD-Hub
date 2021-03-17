@@ -6,8 +6,8 @@ Currently the following applications are available:
 1. MNIST: https://github.com/AikawaMafuyu/HDMNIST
 2. Ham/Spam: https://github.com/AikawaMafuyu/HamHD
 3. HAR: https://github.com/Raisony/HD_HAR
-4. CARDIO: https://github.com/Raisony/HD_CARDIO
-5. ISOLET: https://github.com/Raisony/HD_ISOLET
+4. ISOLET: https://github.com/Raisony/HD_ISOLET
+5. CARDIO: https://github.com/Raisony/HD_CARDIO
 
 ## Download
 You can use the following bash script to clone the repos to local:

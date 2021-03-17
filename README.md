@@ -11,3 +11,5 @@ You can use the following script in your git bash to clone the repos to local:
     
     git clone https://github.com/AikawaMafuyu/HDMNIST.git
     git clone https://github.com/AikawaMafuyu/HamHD.git
+
+Please visit each repo's page to find the guide on how to use the applications.
